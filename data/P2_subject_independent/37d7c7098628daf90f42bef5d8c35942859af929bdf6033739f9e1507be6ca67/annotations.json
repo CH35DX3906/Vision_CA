@@ -1,0 +1,119 @@
+{
+  "02e44ee3-052e-4fa7-97bb-4b23d4d06df6": {
+    "bboxes": [
+      [
+        0.23063706,
+        0.77594092,
+        0.09693532,
+        0.11210494
+      ],
+      [
+        0.59503598,
+        0.22897233,
+        0.11138584,
+        0.15651071
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "stop_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  },
+  "2b9ccc29-4474-42ec-b949-6bee4769218f": {
+    "bboxes": [
+      [
+        0.27061162,
+        0.23260713,
+        0.12444411,
+        0.19328711
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  },
+  "3223e9e5-db30-4473-8535-42d247c1c57d": {
+    "bboxes": [
+      [
+        0.29069627,
+        0.38361531,
+        0.10682332,
+        0.18074767
+      ],
+      [
+        0.85176801,
+        0.77099321,
+        0.14093979,
+        0.15484622
+      ]
+    ],
+    "labels": [
+      "two_up_inverted",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  },
+  "9216e65b-af36-4eca-b953-03117c8fcc85": {
+    "bboxes": [
+      [
+        0.29537223,
+        0.36247209,
+        0.13376289,
+        0.12942313
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  },
+  "ac796fbf-4ad5-42c3-b6ba-fc98244df070": {
+    "bboxes": [
+      [
+        0.29250405,
+        0.64078756,
+        0.06757096,
+        0.07474522
+      ],
+      [
+        0.5801518,
+        0.25772207,
+        0.0898203,
+        0.10231785
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  },
+  "cbd20f73-937e-4e97-9c18-60b87e73b5dd": {
+    "bboxes": [
+      [
+        0.25955831,
+        0.31829829,
+        0.16084931,
+        0.19473778
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "37d7c7098628daf90f42bef5d8c35942859af929bdf6033739f9e1507be6ca67"
+  }
+}

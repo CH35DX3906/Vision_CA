@@ -1,0 +1,18 @@
+{
+  "fa4313db-84a0-4659-abce-674597f85e45": {
+    "bboxes": [
+      [
+        0.33585883,
+        0.36497385,
+        0.18748707,
+        0.12503751
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6f6338e9f6702c6e1a8c4dac956fa8524ad90be30046e13ddf5ec4487aa617f0"
+  }
+}

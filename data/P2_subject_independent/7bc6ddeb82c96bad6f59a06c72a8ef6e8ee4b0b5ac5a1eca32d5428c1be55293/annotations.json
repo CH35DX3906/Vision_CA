@@ -1,0 +1,105 @@
+{
+  "00b458d2-a517-4875-8036-af229f869ab8": {
+    "bboxes": [
+      [
+        0.36340955,
+        0.56210612,
+        0.07838403,
+        0.09699139
+      ],
+      [
+        0.73502256,
+        0.84988657,
+        0.09757924,
+        0.06758847
+      ]
+    ],
+    "labels": [
+      "peace_inverted",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  },
+  "27cd0966-fe6b-4055-a6c4-e54ec9bd802a": {
+    "bboxes": [
+      [
+        0.28918626,
+        0.42304088,
+        0.13055012,
+        0.16012489
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  },
+  "337b6c59-0d95-4be8-b3d6-a9d5843a35f7": {
+    "bboxes": [
+      [
+        0.30107031,
+        0.48462539,
+        0.13340697,
+        0.17263063
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  },
+  "6ccb7740-aca1-4af3-97b3-edcd0a6bc592": {
+    "bboxes": [
+      [
+        0.34209138,
+        0.50893182,
+        0.21382724,
+        0.15401237
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  },
+  "98b4a7d3-5a57-49b3-b1fc-558f347eef14": {
+    "bboxes": [
+      [
+        0.38502077,
+        0.5232292,
+        0.15971361,
+        0.12037528
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  },
+  "ace6d94a-b66a-4e05-adfd-1a3895b1bfbd": {
+    "bboxes": [
+      [
+        0.25278302,
+        0.49654378,
+        0.17639564,
+        0.13196621
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "7bc6ddeb82c96bad6f59a06c72a8ef6e8ee4b0b5ac5a1eca32d5428c1be55293"
+  }
+}

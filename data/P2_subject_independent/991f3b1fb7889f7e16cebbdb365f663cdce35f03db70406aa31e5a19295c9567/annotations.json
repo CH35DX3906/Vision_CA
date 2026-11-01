@@ -1,0 +1,18 @@
+{
+  "d80f41fa-7976-4d7d-aa79-82fa27154817": {
+    "bboxes": [
+      [
+        0.29598383,
+        0.54187656,
+        0.15073456,
+        0.24156446
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "991f3b1fb7889f7e16cebbdb365f663cdce35f03db70406aa31e5a19295c9567"
+  }
+}

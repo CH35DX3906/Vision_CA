@@ -1,0 +1,18 @@
+{
+  "ee73d895-e412-4f83-a1fa-733255840592": {
+    "bboxes": [
+      [
+        0.50724106,
+        0.32911038,
+        0.26055205,
+        0.28500582
+      ]
+    ],
+    "labels": [
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "e7d77c73ea35ef968b5b237c75e01916587f2aa651afe6b6d46fcc2eec5e5d0a"
+  }
+}

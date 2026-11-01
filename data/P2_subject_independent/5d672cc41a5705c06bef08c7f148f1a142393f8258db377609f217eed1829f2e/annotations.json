@@ -1,0 +1,18 @@
+{
+  "1803c43d-c3d5-425b-9529-da7d050ecfd2": {
+    "bboxes": [
+      [
+        0.28885485,
+        0.32643031,
+        0.08665847,
+        0.12074944
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "5d672cc41a5705c06bef08c7f148f1a142393f8258db377609f217eed1829f2e"
+  }
+}

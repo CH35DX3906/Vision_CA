@@ -1,0 +1,18 @@
+{
+  "e28028fd-d565-4424-85a1-a55db15d72a3": {
+    "bboxes": [
+      [
+        0.01174333,
+        0.072285,
+        0.495245,
+        0.49842167
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "32604b61b19755d58bc9fa282bf2f71aaafb67e5a11de367e559988915dea8cd"
+  }
+}

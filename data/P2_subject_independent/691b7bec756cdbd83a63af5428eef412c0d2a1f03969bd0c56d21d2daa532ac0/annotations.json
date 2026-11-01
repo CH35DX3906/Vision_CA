@@ -1,0 +1,50 @@
+{
+  "258fa259-e447-47cc-b353-0cb77fb9f826": {
+    "bboxes": [
+      [
+        0.03606333,
+        0.26591333,
+        0.31398833,
+        0.23835
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "691b7bec756cdbd83a63af5428eef412c0d2a1f03969bd0c56d21d2daa532ac0"
+  },
+  "51827903-b2da-40f1-be9c-12817206da6f": {
+    "bboxes": [
+      [
+        0.143535,
+        0.32754375,
+        0.2592525,
+        0.19691625
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "691b7bec756cdbd83a63af5428eef412c0d2a1f03969bd0c56d21d2daa532ac0"
+  },
+  "931d2d26-d997-4054-a928-2d8caf665f17": {
+    "bboxes": [
+      [
+        0.36227375,
+        0.5154875,
+        0.207155,
+        0.28215625
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "691b7bec756cdbd83a63af5428eef412c0d2a1f03969bd0c56d21d2daa532ac0"
+  }
+}

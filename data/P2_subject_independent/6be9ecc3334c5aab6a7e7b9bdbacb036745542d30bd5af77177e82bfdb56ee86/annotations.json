@@ -1,0 +1,18 @@
+{
+  "f884e40f-82ab-4539-b692-0550812ecfa0": {
+    "bboxes": [
+      [
+        0.7196225,
+        0.25162,
+        0.1753925,
+        0.24378125
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "6be9ecc3334c5aab6a7e7b9bdbacb036745542d30bd5af77177e82bfdb56ee86"
+  }
+}

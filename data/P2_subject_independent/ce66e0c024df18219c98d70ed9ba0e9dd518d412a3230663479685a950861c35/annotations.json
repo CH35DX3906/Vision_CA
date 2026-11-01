@@ -1,0 +1,98 @@
+{
+  "271967de-68f1-40e5-ad17-a78c8e12e712": {
+    "bboxes": [
+      [
+        0.60208762,
+        0.48470183,
+        0.13953543,
+        0.13213032
+      ]
+    ],
+    "labels": [
+      "like"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  },
+  "4e49d9c3-4c6a-4ad6-91c7-79ddc44fa1fa": {
+    "bboxes": [
+      [
+        0.65864473,
+        0.1409013,
+        0.20948955,
+        0.30947846
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  },
+  "751dd387-d9b5-4c3d-8e16-7b623f9cba4a": {
+    "bboxes": [
+      [
+        0.18015396,
+        0.48230605,
+        0.16389595,
+        0.11595139
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  },
+  "c33c4abc-b03d-4f33-b3e8-271834351a87": {
+    "bboxes": [
+      [
+        0.3268808,
+        0.33025205,
+        0.28220097,
+        0.27880772
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  },
+  "c4d0e26d-3ef3-41df-8e0d-887c88a2cb33": {
+    "bboxes": [
+      [
+        0.13990149,
+        0.41913871,
+        0.16336058,
+        0.18441841
+      ]
+    ],
+    "labels": [
+      "four"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  },
+  "f096b7ad-561b-41e3-addf-15b483747a22": {
+    "bboxes": [
+      [
+        0.58833378,
+        0.27953031,
+        0.19320513,
+        0.25051195
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ce66e0c024df18219c98d70ed9ba0e9dd518d412a3230663479685a950861c35"
+  }
+}

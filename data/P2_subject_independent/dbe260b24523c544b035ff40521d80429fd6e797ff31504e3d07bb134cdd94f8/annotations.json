@@ -1,0 +1,18 @@
+{
+  "037f3c8f-bb10-4295-bdcb-f276f6dcc84e": {
+    "bboxes": [
+      [
+        0.55644497,
+        0.39169484,
+        0.1098687,
+        0.14269118
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "dbe260b24523c544b035ff40521d80429fd6e797ff31504e3d07bb134cdd94f8"
+  }
+}

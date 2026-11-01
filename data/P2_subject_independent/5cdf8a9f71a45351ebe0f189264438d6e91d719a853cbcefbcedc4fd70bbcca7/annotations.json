@@ -1,0 +1,18 @@
+{
+  "cd2b2ede-e95e-4238-899f-2ff405cab199": {
+    "bboxes": [
+      [
+        0.42347197,
+        0.33921315,
+        0.11545736,
+        0.12802297
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "5cdf8a9f71a45351ebe0f189264438d6e91d719a853cbcefbcedc4fd70bbcca7"
+  }
+}

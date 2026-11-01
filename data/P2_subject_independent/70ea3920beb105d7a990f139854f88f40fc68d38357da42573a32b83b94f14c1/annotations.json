@@ -1,0 +1,112 @@
+{
+  "2c0a590b-9b4c-443b-b557-39e2f52d1115": {
+    "bboxes": [
+      [
+        0.08460697,
+        0.86125214,
+        0.11802004,
+        0.1382584
+      ],
+      [
+        0.67136379,
+        0.20080076,
+        0.15311236,
+        0.161915
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  },
+  "5b923249-13e6-42a7-af2b-a0f888b3eec3": {
+    "bboxes": [
+      [
+        0.31907696,
+        0.48561363,
+        0.13032859,
+        0.13605989
+      ]
+    ],
+    "labels": [
+      "like"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  },
+  "73aacc5f-b9b9-44de-bf57-8a53f2ea2085": {
+    "bboxes": [
+      [
+        0.08411399,
+        0.33106887,
+        0.20657029,
+        0.21613691
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  },
+  "98e78139-5aa0-475a-84e8-17db6999a713": {
+    "bboxes": [
+      [
+        0.74815524,
+        0.33990222,
+        0.19163643,
+        0.26252456
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  },
+  "b3ed7c62-88cf-4dc0-b1ed-1b890daab819": {
+    "bboxes": [
+      [
+        0.15129807,
+        0.26121624,
+        0.13201094,
+        0.17614564
+      ],
+      [
+        0.38793725,
+        0.68676435,
+        0.36403106,
+        0.20765264
+      ]
+    ],
+    "labels": [
+      "one",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  },
+  "b644cfb5-77d9-48dc-8f9d-be578114728d": {
+    "bboxes": [
+      [
+        0.81180787,
+        0.26029463,
+        0.14091304,
+        0.23422428
+      ]
+    ],
+    "labels": [
+      "two_up"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "70ea3920beb105d7a990f139854f88f40fc68d38357da42573a32b83b94f14c1"
+  }
+}

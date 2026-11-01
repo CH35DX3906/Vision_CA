@@ -1,0 +1,18 @@
+{
+  "dd7068fd-f9ea-4f63-8031-1afb8426f812": {
+    "bboxes": [
+      [
+        0.23903586,
+        0.30225244,
+        0.16817435,
+        0.26879021
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "fab41c06e634ec033634abc3a25004677c3946fe3ea20dc06db0b8994fd3c1aa"
+  }
+}

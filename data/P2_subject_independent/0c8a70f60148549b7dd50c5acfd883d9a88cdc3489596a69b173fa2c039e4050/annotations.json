@@ -1,0 +1,195 @@
+{
+  "228fc749-ce5f-4f91-b50e-c4c5cdb49d76": {
+    "bboxes": [
+      [
+        0.19045839,
+        0.52794153,
+        0.13340011,
+        0.12496531
+      ],
+      [
+        0.34942982,
+        0.84183343,
+        0.22279265,
+        0.05947409
+      ]
+    ],
+    "labels": [
+      "two_up_inverted",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "47f7babd-3faa-40b8-9f89-056764937ba9": {
+    "bboxes": [
+      [
+        0.08663524,
+        0.35793012,
+        0.22017974,
+        0.12459069
+      ],
+      [
+        0.69600121,
+        0.7411571,
+        0.12204442,
+        0.09333338
+      ]
+    ],
+    "labels": [
+      "three2",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "4fded94c-f69e-4539-960c-be6418a757ed": {
+    "bboxes": [
+      [
+        0.35323371,
+        0.29812024,
+        0.20429262,
+        0.0916731
+      ],
+      [
+        0.72916669,
+        0.68947859,
+        0.12256592,
+        0.09883469
+      ]
+    ],
+    "labels": [
+      "call",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "55f1ae1d-56b3-477c-a0cc-19f29b4cd364": {
+    "bboxes": [
+      [
+        0.20791269,
+        0.43459161,
+        0.16069872,
+        0.13171946
+      ],
+      [
+        0.60626911,
+        0.8499146,
+        0.07995353,
+        0.10631211
+      ]
+    ],
+    "labels": [
+      "three2",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "7676272a-383e-44ca-87c8-b68033b690b7": {
+    "bboxes": [
+      [
+        0.17748682,
+        0.47166159,
+        0.22320848,
+        0.12124107
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "7e6baed7-d8ef-4fb4-943c-b1ea159c901e": {
+    "bboxes": [
+      [
+        0.06867069,
+        0.55659915,
+        0.23185985,
+        0.12777973
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "8e191766-1815-4136-92a0-92ad6696af7a": {
+    "bboxes": [
+      [
+        0.0304283,
+        0.40272289,
+        0.16313279,
+        0.1601886
+      ],
+      [
+        0.44164493,
+        0.78647444,
+        0.22291956,
+        0.09130374
+      ]
+    ],
+    "labels": [
+      "two_up",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "cdba398e-7f03-4ab8-a335-968494a3e72d": {
+    "bboxes": [
+      [
+        0.20652444,
+        0.4268584,
+        0.19882988,
+        0.09516004
+      ],
+      [
+        0.32413582,
+        0.78988184,
+        0.2237562,
+        0.07163281
+      ]
+    ],
+    "labels": [
+      "call",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  },
+  "cf4e00c0-a0be-4940-9e55-0bb7e8ba527e": {
+    "bboxes": [
+      [
+        0.23453039,
+        0.55246944,
+        0.11089926,
+        0.10788092
+      ],
+      [
+        0.40736532,
+        0.78452401,
+        0.17933062,
+        0.04978822
+      ]
+    ],
+    "labels": [
+      "peace_inverted",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "0c8a70f60148549b7dd50c5acfd883d9a88cdc3489596a69b173fa2c039e4050"
+  }
+}

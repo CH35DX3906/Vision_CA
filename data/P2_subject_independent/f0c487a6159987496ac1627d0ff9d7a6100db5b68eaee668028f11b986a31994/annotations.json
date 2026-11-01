@@ -1,0 +1,105 @@
+{
+  "0c4d6cf4-9c33-4d06-8946-f5af090a4104": {
+    "bboxes": [
+      [
+        0.29332325,
+        0.30132393,
+        0.10778224,
+        0.16515797
+      ],
+      [
+        0.7974694,
+        0.76513337,
+        0.08790672,
+        0.1219806
+      ]
+    ],
+    "labels": [
+      "two_up",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  },
+  "0e350de4-6a06-4b34-aebe-8361c59271de": {
+    "bboxes": [
+      [
+        0.14609701,
+        0.22613788,
+        0.16183177,
+        0.24702973
+      ]
+    ],
+    "labels": [
+      "two_up"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  },
+  "2656aa25-4d58-443a-bee5-fcb8c28aac4f": {
+    "bboxes": [
+      [
+        0.22270468,
+        0.39583748,
+        0.20699564,
+        0.251116
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  },
+  "64bcba62-5da3-425e-84cf-2c7442e2a060": {
+    "bboxes": [
+      [
+        0.13332728,
+        0.14837529,
+        0.42764542,
+        0.39735445
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  },
+  "b14238f1-7459-4ed1-830d-fe7f698a54fd": {
+    "bboxes": [
+      [
+        0.5053182,
+        0.18639723,
+        0.36059427,
+        0.27344388
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  },
+  "f456bdcd-2903-4040-aa53-a6a733c6435d": {
+    "bboxes": [
+      [
+        0.64953098,
+        0.31101734,
+        0.29828106,
+        0.30316993
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "f0c487a6159987496ac1627d0ff9d7a6100db5b68eaee668028f11b986a31994"
+  }
+}

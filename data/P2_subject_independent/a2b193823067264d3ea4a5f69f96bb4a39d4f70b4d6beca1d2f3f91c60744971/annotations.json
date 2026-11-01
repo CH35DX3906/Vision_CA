@@ -1,0 +1,105 @@
+{
+  "21208f1f-047f-4718-9ce9-d2ce1fc80433": {
+    "bboxes": [
+      [
+        0.18421351,
+        0.78674113,
+        0.2699974,
+        0.21241316
+      ],
+      [
+        0.62268179,
+        0.22893489,
+        0.15634867,
+        0.22706779
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "two_up"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  },
+  "45b0993e-da7c-490e-bb1e-c17ed9691d7a": {
+    "bboxes": [
+      [
+        0.57253239,
+        0.23848864,
+        0.27549438,
+        0.2357594
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  },
+  "4612b691-4d4b-44ba-b28a-049a528b51e2": {
+    "bboxes": [
+      [
+        0.48349727,
+        0.43074802,
+        0.22639236,
+        0.20610272
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  },
+  "612385ed-2e24-4028-ae0f-6b1d0047e1ed": {
+    "bboxes": [
+      [
+        0.27932934,
+        0.35938304,
+        0.23613691,
+        0.1855004
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  },
+  "b548e5df-cc22-4cd7-874a-277de52a82c1": {
+    "bboxes": [
+      [
+        0.59148678,
+        0.42398767,
+        0.2214787,
+        0.18799952
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  },
+  "f623cc6b-4267-4c78-b50e-2b91b0112cc8": {
+    "bboxes": [
+      [
+        0.34418433,
+        0.1820783,
+        0.24048998,
+        0.19011806
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "a2b193823067264d3ea4a5f69f96bb4a39d4f70b4d6beca1d2f3f91c60744971"
+  }
+}

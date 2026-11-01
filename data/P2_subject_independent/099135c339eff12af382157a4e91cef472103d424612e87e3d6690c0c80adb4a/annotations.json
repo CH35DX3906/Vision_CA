@@ -1,0 +1,41 @@
+{
+  "20d278c2-223f-4edf-9c40-c1d0d11a4abc": {
+    "bboxes": [
+      [
+        0.23509929,
+        0.36392064,
+        0.11440535,
+        0.16447488
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "099135c339eff12af382157a4e91cef472103d424612e87e3d6690c0c80adb4a"
+  },
+  "7aff9da1-167a-4f2e-864d-85899bcd02c7": {
+    "bboxes": [
+      [
+        0.19811227,
+        0.22807535,
+        0.18829576,
+        0.19255786
+      ],
+      [
+        0.61850963,
+        0.85579284,
+        0.15659354,
+        0.14248286
+      ]
+    ],
+    "labels": [
+      "palm",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "099135c339eff12af382157a4e91cef472103d424612e87e3d6690c0c80adb4a"
+  }
+}

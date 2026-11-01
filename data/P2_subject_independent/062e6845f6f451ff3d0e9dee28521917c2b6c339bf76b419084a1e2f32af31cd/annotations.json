@@ -1,0 +1,96 @@
+{
+  "2814dac7-1ef7-40f3-9c17-444ec35cd3ee": {
+    "bboxes": [
+      [
+        0.29538229,
+        0.29617071,
+        0.17379076,
+        0.19302538
+      ],
+      [
+        0.59748852,
+        0.73390508,
+        0.2045254,
+        0.15064185
+      ]
+    ],
+    "labels": [
+      "three2",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "062e6845f6f451ff3d0e9dee28521917c2b6c339bf76b419084a1e2f32af31cd"
+  },
+  "83a22a99-59ad-4bb1-a73f-5f0804285f0c": {
+    "bboxes": [
+      [
+        0.29444838,
+        0.44158763,
+        0.10620562,
+        0.16611757
+      ]
+    ],
+    "labels": [
+      "two_up"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "062e6845f6f451ff3d0e9dee28521917c2b6c339bf76b419084a1e2f32af31cd"
+  },
+  "9c5748e1-914d-4a49-b9fd-45c91b5bdc22": {
+    "bboxes": [
+      [
+        0.36030322,
+        0.82703218,
+        0.13065018,
+        0.08426738
+      ],
+      [
+        0.39163255,
+        0.60012515,
+        0.09526302,
+        0.12890412
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "062e6845f6f451ff3d0e9dee28521917c2b6c339bf76b419084a1e2f32af31cd"
+  },
+  "c158acf7-0e17-45fb-8935-3cf51a7a0cdb": {
+    "bboxes": [
+      [
+        0.33413475,
+        0.46908246,
+        0.10680922,
+        0.14459914
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "062e6845f6f451ff3d0e9dee28521917c2b6c339bf76b419084a1e2f32af31cd"
+  },
+  "ef47a19f-c428-467d-b6cd-fab5d5a99ccb": {
+    "bboxes": [
+      [
+        0.34703997,
+        0.42675463,
+        0.09726401,
+        0.15377463
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "062e6845f6f451ff3d0e9dee28521917c2b6c339bf76b419084a1e2f32af31cd"
+  }
+}

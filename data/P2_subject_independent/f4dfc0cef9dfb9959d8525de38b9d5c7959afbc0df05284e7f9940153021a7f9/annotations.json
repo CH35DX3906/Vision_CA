@@ -1,0 +1,18 @@
+{
+  "babe691f-bb94-4fc3-9837-cbc8b2301fa5": {
+    "bboxes": [
+      [
+        0.54740776,
+        0.34549059,
+        0.21904151,
+        0.31027161
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "f4dfc0cef9dfb9959d8525de38b9d5c7959afbc0df05284e7f9940153021a7f9"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "515f0f93-bfae-42a6-87ea-82c9475704b8": {
+    "bboxes": [
+      [
+        0.27508966,
+        0.34465229,
+        0.14973152,
+        0.23552814
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "3b5447fd5c0dfc68be7cf233f00f8ccd63491f7dad2357332ae8b89890420e86"
+  },
+  "59d43293-3411-4395-a409-d6d9823551f0": {
+    "bboxes": [
+      [
+        0.33302645,
+        0.29495546,
+        0.28624159,
+        0.2430416
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "3b5447fd5c0dfc68be7cf233f00f8ccd63491f7dad2357332ae8b89890420e86"
+  },
+  "b6bb32d4-d097-43ff-bd51-d81e082500e9": {
+    "bboxes": [
+      [
+        0.30757691,
+        0.86211023,
+        0.24460613,
+        0.13660977
+      ],
+      [
+        0.59016373,
+        0.36609171,
+        0.14645618,
+        0.20887053
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "peace_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "3b5447fd5c0dfc68be7cf233f00f8ccd63491f7dad2357332ae8b89890420e86"
+  },
+  "b91a6b51-cacc-41c4-b07b-861aabe97d24": {
+    "bboxes": [
+      [
+        0.32244004,
+        0.79811807,
+        0.24039016,
+        0.17828177
+      ],
+      [
+        0.36840061,
+        0.41967318,
+        0.14281414,
+        0.14173167
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "call"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "3b5447fd5c0dfc68be7cf233f00f8ccd63491f7dad2357332ae8b89890420e86"
+  },
+  "ba9370d7-f190-4f4c-bfa8-652005a1bbd7": {
+    "bboxes": [
+      [
+        0.2028992,
+        0.25970788,
+        0.18342982,
+        0.26836153
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "3b5447fd5c0dfc68be7cf233f00f8ccd63491f7dad2357332ae8b89890420e86"
+  }
+}

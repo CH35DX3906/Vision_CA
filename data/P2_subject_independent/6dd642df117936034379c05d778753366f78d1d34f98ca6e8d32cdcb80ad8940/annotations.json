@@ -1,0 +1,50 @@
+{
+  "0d36ac51-26a1-40fe-a662-a8c279b47d12": {
+    "bboxes": [
+      [
+        0.41858911,
+        0.56619899,
+        0.09798102,
+        0.10629856
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6dd642df117936034379c05d778753366f78d1d34f98ca6e8d32cdcb80ad8940"
+  },
+  "3e8d6dea-d581-4147-a175-29f748cdaa39": {
+    "bboxes": [
+      [
+        0.32950545,
+        0.46932161,
+        0.09190208,
+        0.1072702
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6dd642df117936034379c05d778753366f78d1d34f98ca6e8d32cdcb80ad8940"
+  },
+  "64104a88-fcd4-44e5-a584-0849f05e8c2b": {
+    "bboxes": [
+      [
+        0.42183847,
+        0.50479187,
+        0.06407394,
+        0.07538929
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6dd642df117936034379c05d778753366f78d1d34f98ca6e8d32cdcb80ad8940"
+  }
+}

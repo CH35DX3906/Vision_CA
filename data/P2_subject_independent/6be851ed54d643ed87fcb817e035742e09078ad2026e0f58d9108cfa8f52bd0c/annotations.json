@@ -1,0 +1,114 @@
+{
+  "1d4de254-960b-4a83-bbd2-ad3b35665e18": {
+    "bboxes": [
+      [
+        0.26225605,
+        0.37709768,
+        0.15650063,
+        0.14129739
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "1f9b5e74-7bb2-4e23-b482-8db8464712b1": {
+    "bboxes": [
+      [
+        0.2075751,
+        0.28461811,
+        0.13187472,
+        0.17615598
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "3a278522-69e6-488d-a0f4-6e847d502776": {
+    "bboxes": [
+      [
+        0.24332685,
+        0.36143835,
+        0.18310852,
+        0.16339997
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "74487fc5-7176-4b13-9238-c0fd853101a7": {
+    "bboxes": [
+      [
+        0.25507151,
+        0.37341865,
+        0.14125917,
+        0.12872993
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "d907753d-c9d7-4197-9882-afad7b3b26ef": {
+    "bboxes": [
+      [
+        0.41047652,
+        0.39665905,
+        0.10163274,
+        0.14149804
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "dbca55c8-8928-4514-a1e3-5ded724abff4": {
+    "bboxes": [
+      [
+        0.42660768,
+        0.49156819,
+        0.12526384,
+        0.1452186
+      ]
+    ],
+    "labels": [
+      "dislike"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  },
+  "fcaabe7d-2b04-48ac-8bb6-b343e269bbe3": {
+    "bboxes": [
+      [
+        0.43218381,
+        0.41121958,
+        0.09350734,
+        0.13477893
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "6be851ed54d643ed87fcb817e035742e09078ad2026e0f58d9108cfa8f52bd0c"
+  }
+}

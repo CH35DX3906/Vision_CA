@@ -1,0 +1,96 @@
+{
+  "2d294e7f-8375-454d-96b9-def11a91f34f": {
+    "bboxes": [
+      [
+        0.63608529,
+        0.32438811,
+        0.11754212,
+        0.25870208
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "177fbaa94052bfd99beaaf64ef6274f819e7ee8cfd9a9dad1575975bec63697b"
+  },
+  "4ac9a10f-aa5e-45f2-9c2a-7ee79191dba4": {
+    "bboxes": [
+      [
+        0.35243715,
+        0.23750224,
+        0.05848359,
+        0.08143104
+      ],
+      [
+        0.45583815,
+        0.32644302,
+        0.09437595,
+        0.05927312
+      ]
+    ],
+    "labels": [
+      "stop_inverted",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "177fbaa94052bfd99beaaf64ef6274f819e7ee8cfd9a9dad1575975bec63697b"
+  },
+  "92bfc67b-42a5-4296-b749-3c404b3cbf8d": {
+    "bboxes": [
+      [
+        0.2034689,
+        0.06930485,
+        0.18228254,
+        0.32956646
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "177fbaa94052bfd99beaaf64ef6274f819e7ee8cfd9a9dad1575975bec63697b"
+  },
+  "e55382fe-6ccc-4d63-a35b-0e88433d81d2": {
+    "bboxes": [
+      [
+        0.30413185,
+        0.29866452,
+        0.11209975,
+        0.20913075
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "177fbaa94052bfd99beaaf64ef6274f819e7ee8cfd9a9dad1575975bec63697b"
+  },
+  "f205ac0a-13be-4b2b-897b-4f77e9a0dd24": {
+    "bboxes": [
+      [
+        0.51048075,
+        0.4840605,
+        0.10421241,
+        0.13757083
+      ],
+      [
+        0.72465028,
+        0.48245854,
+        0.06502542,
+        0.1301261
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "177fbaa94052bfd99beaaf64ef6274f819e7ee8cfd9a9dad1575975bec63697b"
+  }
+}

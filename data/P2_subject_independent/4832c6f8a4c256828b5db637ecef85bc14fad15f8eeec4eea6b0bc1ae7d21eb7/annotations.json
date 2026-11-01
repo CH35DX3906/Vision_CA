@@ -1,0 +1,98 @@
+{
+  "064b9a45-785c-4627-8cee-258313ee4185": {
+    "bboxes": [
+      [
+        0.62540036,
+        0.39036598,
+        0.10247265,
+        0.20325974
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  },
+  "1412d933-c34a-48fe-a00d-bb090eb06bba": {
+    "bboxes": [
+      [
+        0.62870421,
+        0.32225493,
+        0.12127612,
+        0.2098709
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  },
+  "20df4832-09a7-41e3-9cca-0f1d44915362": {
+    "bboxes": [
+      [
+        0.64108911,
+        0.23708906,
+        0.06321581,
+        0.21796999
+      ]
+    ],
+    "labels": [
+      "one"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  },
+  "7d2ab9fa-864f-46b4-a77f-1a95fad24d8f": {
+    "bboxes": [
+      [
+        0.62822751,
+        0.33617056,
+        0.08873222,
+        0.19754939
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  },
+  "d6a76e17-20d0-4fc1-a1c4-121b3486f98a": {
+    "bboxes": [
+      [
+        0.68010866,
+        0.27730685,
+        0.06706343,
+        0.13807728
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  },
+  "ffbe16e3-cc1a-48f8-abce-e35341bb28fd": {
+    "bboxes": [
+      [
+        0.69253599,
+        0.33742511,
+        0.08010184,
+        0.21948665
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "4832c6f8a4c256828b5db637ecef85bc14fad15f8eeec4eea6b0bc1ae7d21eb7"
+  }
+}

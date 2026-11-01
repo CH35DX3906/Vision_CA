@@ -1,0 +1,18 @@
+{
+  "aa6d1042-cabe-4902-8628-c2e52985ea00": {
+    "bboxes": [
+      [
+        0.58061359,
+        0.30785359,
+        0.16183269,
+        0.22062469
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "791aded25e7f52d1ecf8219ad09a2766790eb28e57e622906f9d67af6f4c3722"
+  }
+}

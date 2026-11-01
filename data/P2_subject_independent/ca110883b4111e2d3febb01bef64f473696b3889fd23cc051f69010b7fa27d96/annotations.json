@@ -1,0 +1,105 @@
+{
+  "0824eaff-dcf9-448f-95d0-aa8fd3faca99": {
+    "bboxes": [
+      [
+        0.48831873,
+        0.32585721,
+        0.11570586,
+        0.148877
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  },
+  "0ee50fee-0662-406f-8e39-795e53c118e9": {
+    "bboxes": [
+      [
+        0.34718201,
+        0.74674001,
+        0.04237456,
+        0.05471691
+      ],
+      [
+        0.49174646,
+        0.57500817,
+        0.05305404,
+        0.0601665
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "like"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  },
+  "106fc045-20e1-4d6a-b060-3eb6ac5b3e45": {
+    "bboxes": [
+      [
+        0.35273791,
+        0.56369897,
+        0.0734726,
+        0.08430336
+      ]
+    ],
+    "labels": [
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  },
+  "3b79adbd-78ac-48b6-b595-ecd05d0ffd6c": {
+    "bboxes": [
+      [
+        0.52937573,
+        0.65789461,
+        0.07710893,
+        0.08483059
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  },
+  "70f0b922-c6ca-4328-aa1a-dfdf3d7a4ecb": {
+    "bboxes": [
+      [
+        0.59027143,
+        0.52915853,
+        0.04854905,
+        0.03814663
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  },
+  "bf085fb1-59f7-4470-b539-a5fedae85ff8": {
+    "bboxes": [
+      [
+        0.51197284,
+        0.52268343,
+        0.14714496,
+        0.17442599
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ca110883b4111e2d3febb01bef64f473696b3889fd23cc051f69010b7fa27d96"
+  }
+}

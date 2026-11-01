@@ -1,0 +1,18 @@
+{
+  "33105c7c-fd1e-4023-817e-330486d653dc": {
+    "bboxes": [
+      [
+        0.77285123,
+        0.39524711,
+        0.11272122,
+        0.17118523
+      ]
+    ],
+    "labels": [
+      "two_up"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "f13da24a08fc106b3bb25be79ae5fe972ba88387b0c229a4bf3465fbab2599ca"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "2079bc43-961a-408b-9502-bde11ddc84dd": {
+    "bboxes": [
+      [
+        0.19867324,
+        0.48273088,
+        0.09971228,
+        0.10656026
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  },
+  "4d1c0116-0572-48a0-80ef-165c4ff98c98": {
+    "bboxes": [
+      [
+        0.34942864,
+        0.45985527,
+        0.08234714,
+        0.08379455
+      ],
+      [
+        0.64493821,
+        0.72281529,
+        0.06856263,
+        0.08198108
+      ]
+    ],
+    "labels": [
+      "like",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  },
+  "88279f50-47f3-445e-9742-9034546e7d03": {
+    "bboxes": [
+      [
+        0.20578038,
+        0.36268746,
+        0.11388645,
+        0.12416779
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  },
+  "8e95771a-6f9a-41b4-ad20-67fc504ca79f": {
+    "bboxes": [
+      [
+        0.2314469,
+        0.43455906,
+        0.16577918,
+        0.1108873
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  },
+  "c9407825-c517-4797-8d13-44f748ec2767": {
+    "bboxes": [
+      [
+        0.29917076,
+        0.31486781,
+        0.12134611,
+        0.11161989
+      ],
+      [
+        0.68702374,
+        0.84143332,
+        0.08442316,
+        0.09516199
+      ]
+    ],
+    "labels": [
+      "dislike",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  },
+  "fd9035ec-5041-4eca-8432-a7910669ed77": {
+    "bboxes": [
+      [
+        0.33964436,
+        0.19440907,
+        0.10990767,
+        0.11077685
+      ],
+      [
+        0.71573574,
+        0.68643786,
+        0.07845507,
+        0.12654286
+      ]
+    ],
+    "labels": [
+      "dislike",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "868a561403b4c74a5416dfa5c81745eb4bd40ae4002ca1ecce8880d4a5cd467b"
+  }
+}

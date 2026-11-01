@@ -1,0 +1,25 @@
+{
+  "4e94f20d-bbcd-4380-b136-23834db0c2c7": {
+    "bboxes": [
+      [
+        0.31134508,
+        0.64053696,
+        0.06369715,
+        0.07088388
+      ],
+      [
+        0.63114255,
+        0.29250235,
+        0.11390701,
+        0.11295975
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "dccfcf9b39bab06a3bbb9ecfba198ca3b942b0abf49e8a4c19d6dc37d9deb233"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "6890eb65-2a5e-4ce7-8af7-40febdd2dc47": {
+    "bboxes": [
+      [
+        0.40924491,
+        0.5445586,
+        0.4135449,
+        0.31054124
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "3ec290190efbe8079e733f1e6d7cdc492bffe95c2a0bb9362505ff03d9a3a96c"
+  },
+  "77e18a36-206d-4dc4-9fcc-a7f01c20a691": {
+    "bboxes": [
+      [
+        0.59929634,
+        0.50047923,
+        0.38162664,
+        0.30861204
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "3ec290190efbe8079e733f1e6d7cdc492bffe95c2a0bb9362505ff03d9a3a96c"
+  }
+}

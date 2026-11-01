@@ -1,0 +1,112 @@
+{
+  "11ece359-468b-4416-836c-95d18b2e0e20": {
+    "bboxes": [
+      [
+        0.5788906,
+        0.49930474,
+        0.14322913,
+        0.12834853
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  },
+  "7491c529-6f39-466e-a758-935e084414a5": {
+    "bboxes": [
+      [
+        0.60888691,
+        0.43446953,
+        0.15873448,
+        0.15730844
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  },
+  "afb74bbc-386a-4437-becd-a6b135c415a7": {
+    "bboxes": [
+      [
+        0.6194132,
+        0.44303014,
+        0.13595422,
+        0.14970301
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  },
+  "b4c45a09-3e63-4282-9495-7283945772da": {
+    "bboxes": [
+      [
+        0.1715268,
+        0.87400924,
+        0.09350918,
+        0.12559647
+      ],
+      [
+        0.5581953,
+        0.36067863,
+        0.11263259,
+        0.12701487
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  },
+  "c5e5a447-b21f-4aa6-b804-a44c57f23fae": {
+    "bboxes": [
+      [
+        0.62873902,
+        0.45098001,
+        0.13211659,
+        0.17676989
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  },
+  "f94afdcd-312e-4156-8c95-9f9bad1d39a3": {
+    "bboxes": [
+      [
+        0.07579668,
+        0.86117882,
+        0.11097471,
+        0.13830118
+      ],
+      [
+        0.64293731,
+        0.25775403,
+        0.14414501,
+        0.14562421
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "8d1be452daec826a9f686cb06c1ef187562bb6e2813e043b368fb6d8c83c2eb8"
+  }
+}

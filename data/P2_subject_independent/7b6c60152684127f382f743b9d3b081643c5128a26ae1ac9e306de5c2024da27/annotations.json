@@ -1,0 +1,98 @@
+{
+  "25c69bd1-8800-4f42-8462-ed1a58dd3deb": {
+    "bboxes": [
+      [
+        0.71966765,
+        0.3393147,
+        0.21748865,
+        0.16754962
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  },
+  "3bf4beb1-ad25-4eae-837d-8820f32c8ecd": {
+    "bboxes": [
+      [
+        0.40229303,
+        0.45125587,
+        0.26668736,
+        0.26143156
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  },
+  "5e4661d3-5598-42c3-8711-5e315ab2c51f": {
+    "bboxes": [
+      [
+        0.58612831,
+        0.52503521,
+        0.22010511,
+        0.2627895
+      ]
+    ],
+    "labels": [
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  },
+  "5f35448c-4b94-4c64-8540-b8ad7908e307": {
+    "bboxes": [
+      [
+        0.32143605,
+        0.60966471,
+        0.29331315,
+        0.32005121
+      ]
+    ],
+    "labels": [
+      "like"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  },
+  "94e9fda0-fab9-4785-bea0-50c5e41b0c95": {
+    "bboxes": [
+      [
+        0.56211702,
+        0.27232443,
+        0.28798505,
+        0.33846722
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  },
+  "9c5efdcc-e8fc-468c-ae34-5130ebff5638": {
+    "bboxes": [
+      [
+        0.48701462,
+        0.1905717,
+        0.35649792,
+        0.28236625
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "7b6c60152684127f382f743b9d3b081643c5128a26ae1ac9e306de5c2024da27"
+  }
+}

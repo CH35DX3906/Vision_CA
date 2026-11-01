@@ -1,0 +1,112 @@
+{
+  "0a0ef3d2-2560-4a93-904d-437189fffbf2": {
+    "bboxes": [
+      [
+        0.25958369,
+        0.43994279,
+        0.10734358,
+        0.11913382
+      ]
+    ],
+    "labels": [
+      "one"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  },
+  "5e63b410-89ab-48d3-9cc8-0ab939d36bf2": {
+    "bboxes": [
+      [
+        0.41054729,
+        0.43058015,
+        0.16658564,
+        0.18228675
+      ]
+    ],
+    "labels": [
+      "like"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  },
+  "65c81447-6f7b-474d-8057-b7d1cd98285a": {
+    "bboxes": [
+      [
+        0.17363993,
+        0.19069843,
+        0.1549761,
+        0.21578261
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  },
+  "b6f85b22-a85f-41ee-99a9-81fb0f2dd32e": {
+    "bboxes": [
+      [
+        0.22382607,
+        0.2697784,
+        0.13861241,
+        0.14280388
+      ],
+      [
+        0.45425657,
+        0.65305074,
+        0.11314511,
+        0.08280651
+      ]
+    ],
+    "labels": [
+      "palm",
+      "no_gesture"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  },
+  "c2ba27cf-c1af-4b64-bb69-c17df02c121c": {
+    "bboxes": [
+      [
+        0.28422921,
+        0.73994581,
+        0.12672566,
+        0.11792422
+      ],
+      [
+        0.5972383,
+        0.42726094,
+        0.1322165,
+        0.13564656
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "four"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  },
+  "c6821dea-0095-47a6-aa7e-63ea2a53cb2c": {
+    "bboxes": [
+      [
+        0.32735644,
+        0.38238601,
+        0.18110144,
+        0.18354316
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "ee2aed13839ccfb7df23c717eb444cb76b9c5f10382d76710178dae1d1060cd2"
+  }
+}

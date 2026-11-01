@@ -1,0 +1,105 @@
+{
+  "0f6ef457-1e1b-4ae1-bc5e-68a5ba59ded1": {
+    "bboxes": [
+      [
+        0.52368676,
+        0.31639689,
+        0.11130637,
+        0.10062336
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  },
+  "139bd2ff-0a01-4542-9b81-8d039288ab72": {
+    "bboxes": [
+      [
+        0.44638946,
+        0.28948795,
+        0.12550562,
+        0.09928882
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  },
+  "1bec2f77-13f4-42db-b07a-4142cffa67d1": {
+    "bboxes": [
+      [
+        0.48784117,
+        0.32652976,
+        0.08597019,
+        0.13285458
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  },
+  "5a055bda-52b4-48da-921e-c6c67bdf4d36": {
+    "bboxes": [
+      [
+        0.52769172,
+        0.27143629,
+        0.10166241,
+        0.10932277
+      ]
+    ],
+    "labels": [
+      "four"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  },
+  "a174339e-9da9-4fe9-9020-6395e3608c8b": {
+    "bboxes": [
+      [
+        0.57015792,
+        0.25228068,
+        0.08311638,
+        0.124683
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  },
+  "c9dc69ce-ae89-4179-be2d-96fdd38dc454": {
+    "bboxes": [
+      [
+        0.12427181,
+        0.7616163,
+        0.09337331,
+        0.09729532
+      ],
+      [
+        0.44090172,
+        0.22180655,
+        0.10547909,
+        0.11925577
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 0.8,
+    "user_id": "97cbafb9a9a366f0b8630f052c48af639232382108ae8977ae7ab6b780d9e1ab"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "8bcd6ba5-4506-4181-bc5a-c0dcc0234a12": {
+    "bboxes": [
+      [
+        0.31102657,
+        0.30297274,
+        0.14895552,
+        0.19237274
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "bc3e23f9bb07e9bdec42562fa77de0af8e663fb166c2866d6d1126cef7219d04"
+  }
+}

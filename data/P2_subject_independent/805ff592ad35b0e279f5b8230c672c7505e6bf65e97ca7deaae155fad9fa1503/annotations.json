@@ -1,0 +1,98 @@
+{
+  "1493f652-d267-400c-bf68-38ff56430f0e": {
+    "bboxes": [
+      [
+        0.19905158,
+        0.47366729,
+        0.27565174,
+        0.14509342
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  },
+  "33113171-08e0-451e-a14a-28e9c8b194de": {
+    "bboxes": [
+      [
+        0.45869402,
+        0.35795135,
+        0.11851519,
+        0.28330867
+      ]
+    ],
+    "labels": [
+      "call"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  },
+  "3f1a138c-3a22-4ff0-8ba8-d77abc241366": {
+    "bboxes": [
+      [
+        0.44699997,
+        0.16787311,
+        0.08317013,
+        0.2917844
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  },
+  "445fd723-bc04-47f2-8d69-0016288dcdc1": {
+    "bboxes": [
+      [
+        0.57921634,
+        0.30052287,
+        0.11433995,
+        0.29918503
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  },
+  "45d181e0-0ee6-406b-8654-8be99ec96422": {
+    "bboxes": [
+      [
+        0.63188924,
+        0.4149816,
+        0.28471632,
+        0.16680054
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  },
+  "4c2fd3a4-6b0c-466c-ae91-34ce298eba77": {
+    "bboxes": [
+      [
+        0.41443746,
+        0.34928446,
+        0.3017255,
+        0.2701928
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "805ff592ad35b0e279f5b8230c672c7505e6bf65e97ca7deaae155fad9fa1503"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ffecce02-5e10-46d9-b839-32e584b31f2c": {
+    "bboxes": [
+      [
+        0.24530525,
+        0.2557927,
+        0.17156471,
+        0.198605
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "4e245537edcc95d425355f510c238ce01f9f7af64e4a4674022a5699a8ba352a"
+  }
+}

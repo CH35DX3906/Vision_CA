@@ -1,0 +1,114 @@
+{
+  "03ca4faf-dd8e-4ab2-9c37-f3649cd6ce68": {
+    "bboxes": [
+      [
+        0.07488396,
+        0.4679062,
+        0.35420533,
+        0.32234045
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 0.8,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "0871d5aa-d683-4abc-8c25-452bdae2796b": {
+    "bboxes": [
+      [
+        0.30254148,
+        0.3261187,
+        0.13788064,
+        0.19706265
+      ]
+    ],
+    "labels": [
+      "one"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "45d8975c-0ab4-4a30-88d5-da036536e875": {
+    "bboxes": [
+      [
+        0.27344611,
+        0.47380305,
+        0.13319725,
+        0.18047002
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "d31c3d79-2ed5-4af4-818e-af2902873182": {
+    "bboxes": [
+      [
+        0.25188963,
+        0.16566705,
+        0.13620559,
+        0.17400296
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "d667898f-bc53-4460-aa9a-1a1db4f4832a": {
+    "bboxes": [
+      [
+        0.35326419,
+        0.49656304,
+        0.09714551,
+        0.12726763
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "e53e1f8a-dde1-4220-a471-95eb023965a3": {
+    "bboxes": [
+      [
+        0.57100786,
+        0.39916496,
+        0.09970274,
+        0.09214796
+      ]
+    ],
+    "labels": [
+      "stop_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  },
+  "e93c9a9c-3129-4a5c-a9b0-f475f86a4a1b": {
+    "bboxes": [
+      [
+        0.29980446,
+        0.33554386,
+        0.0970572,
+        0.10917753
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "df1f4f59aab658a310aee5d12b59c08bfde061d9796dff8a776b8ab38eb7223c"
+  }
+}

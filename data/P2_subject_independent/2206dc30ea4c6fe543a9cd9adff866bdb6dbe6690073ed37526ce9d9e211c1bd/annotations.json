@@ -1,0 +1,34 @@
+{
+  "42d636bd-46ed-4499-815e-88e5fd1e8222": {
+    "bboxes": [
+      [
+        0.61890977,
+        0.32576852,
+        0.21646793,
+        0.32907291
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "2206dc30ea4c6fe543a9cd9adff866bdb6dbe6690073ed37526ce9d9e211c1bd"
+  },
+  "90d6485c-8247-4205-a421-a3edb58d4297": {
+    "bboxes": [
+      [
+        0.71494031,
+        0.23957915,
+        0.15007141,
+        0.359362
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "2206dc30ea4c6fe543a9cd9adff866bdb6dbe6690073ed37526ce9d9e211c1bd"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "3c8c1774-ab26-41b3-84ff-8d3837feb03a": {
+    "bboxes": [
+      [
+        0.61110841,
+        0.29792817,
+        0.22486495,
+        0.15272169
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "758cede8daf96f21b9f26da35d6dbc1ef01377fec201b4dbc4becf11ebf45003"
+  }
+}

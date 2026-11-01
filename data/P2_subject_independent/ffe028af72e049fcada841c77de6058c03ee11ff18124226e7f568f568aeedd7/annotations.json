@@ -1,0 +1,34 @@
+{
+  "24e587ad-51cd-427f-8a02-dcfb89580c11": {
+    "bboxes": [
+      [
+        0.50786823,
+        0.2678009,
+        0.07508363,
+        0.13905587
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ffe028af72e049fcada841c77de6058c03ee11ff18124226e7f568f568aeedd7"
+  },
+  "7d552f9c-08d8-4087-baac-06ae49aa4d69": {
+    "bboxes": [
+      [
+        0.48549127,
+        0.19523308,
+        0.08766609,
+        0.22051029
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "ffe028af72e049fcada841c77de6058c03ee11ff18124226e7f568f568aeedd7"
+  }
+}

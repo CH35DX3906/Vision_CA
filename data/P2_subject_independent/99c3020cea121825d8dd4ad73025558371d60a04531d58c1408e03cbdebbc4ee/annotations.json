@@ -1,0 +1,105 @@
+{
+  "3ca16f4e-7570-4a3e-91ec-c7d138936dd8": {
+    "bboxes": [
+      [
+        0.60860561,
+        0.28916402,
+        0.10110041,
+        0.16092105
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  },
+  "50a5813a-ea3a-4ed3-98da-53d5b71ccdf5": {
+    "bboxes": [
+      [
+        0.58195429,
+        0.30488414,
+        0.14333833,
+        0.19723343
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  },
+  "5b559e8b-ec08-470f-af37-72900b2ce555": {
+    "bboxes": [
+      [
+        0.07036205,
+        0.89305152,
+        0.10475353,
+        0.10567723
+      ],
+      [
+        0.58127521,
+        0.38039528,
+        0.09138615,
+        0.12875833
+      ]
+    ],
+    "labels": [
+      "no_gesture",
+      "one"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  },
+  "6a43def3-57e0-4750-a81f-a0b42f47b683": {
+    "bboxes": [
+      [
+        0.57561712,
+        0.3058887,
+        0.11054545,
+        0.19222134
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 0.8,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  },
+  "dc06b212-7b9d-4d29-9cbe-6db5cc3c5be6": {
+    "bboxes": [
+      [
+        0.64486726,
+        0.36671955,
+        0.12168667,
+        0.19762723
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  },
+  "ef3788bc-94d5-4cdd-be7a-eb0d4495b779": {
+    "bboxes": [
+      [
+        0.5047257,
+        0.3579734,
+        0.19122908,
+        0.18628479
+      ]
+    ],
+    "labels": [
+      "ok"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "99c3020cea121825d8dd4ad73025558371d60a04531d58c1408e03cbdebbc4ee"
+  }
+}

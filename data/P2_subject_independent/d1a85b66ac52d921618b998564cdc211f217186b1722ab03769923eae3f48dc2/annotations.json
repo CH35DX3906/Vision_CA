@@ -1,0 +1,18 @@
+{
+  "d23174ec-bab8-4ae1-a557-c33eae6f6120": {
+    "bboxes": [
+      [
+        0.17501678,
+        0.32759608,
+        0.16211477,
+        0.20380148
+      ]
+    ],
+    "labels": [
+      "four"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "d1a85b66ac52d921618b998564cdc211f217186b1722ab03769923eae3f48dc2"
+  }
+}

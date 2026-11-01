@@ -1,0 +1,98 @@
+{
+  "1be3d290-f17f-485a-95da-f2bc266b764f": {
+    "bboxes": [
+      [
+        0.64249305,
+        0.4347318,
+        0.09388775,
+        0.13429548
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  },
+  "613a0faf-85aa-421b-bb28-414ca74a3cb6": {
+    "bboxes": [
+      [
+        0.58770443,
+        0.34017342,
+        0.12932583,
+        0.14735945
+      ]
+    ],
+    "labels": [
+      "stop"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  },
+  "77ed4fbf-a627-48da-807d-9896b49469ad": {
+    "bboxes": [
+      [
+        0.51309755,
+        0.35579165,
+        0.133658,
+        0.1422739
+      ]
+    ],
+    "labels": [
+      "rock"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  },
+  "8856e77b-6d66-4a21-9310-4f0417f9f985": {
+    "bboxes": [
+      [
+        0.40357195,
+        0.39066452,
+        0.11411417,
+        0.1574042
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  },
+  "9f277246-d0e0-48b6-bc0f-dd3018bc50bd": {
+    "bboxes": [
+      [
+        0.48784323,
+        0.55991821,
+        0.11880033,
+        0.13561703
+      ]
+    ],
+    "labels": [
+      "mute"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  },
+  "ccac3b09-05ae-48dc-8a45-8ddf1349c6e0": {
+    "bboxes": [
+      [
+        0.5178259,
+        0.37077743,
+        0.12028834,
+        0.16489528
+      ]
+    ],
+    "labels": [
+      "peace"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "9c34c003dd8f73f0ebedb3271eedd2c7e1c78dc9ec09870d632c0f7c9cb4eecd"
+  }
+}

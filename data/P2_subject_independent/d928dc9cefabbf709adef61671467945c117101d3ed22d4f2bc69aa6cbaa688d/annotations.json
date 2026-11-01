@@ -1,0 +1,66 @@
+{
+  "3c87de73-6389-4e39-97f1-a92ca7951f9a": {
+    "bboxes": [
+      [
+        0.56834493,
+        0.33718886,
+        0.12348585,
+        0.10039978
+      ]
+    ],
+    "labels": [
+      "palm"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "d928dc9cefabbf709adef61671467945c117101d3ed22d4f2bc69aa6cbaa688d"
+  },
+  "5e4e00c4-8dd9-495d-bc57-cfecb51f44d3": {
+    "bboxes": [
+      [
+        0.66324459,
+        0.43996852,
+        0.19223266,
+        0.12362796
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "d928dc9cefabbf709adef61671467945c117101d3ed22d4f2bc69aa6cbaa688d"
+  },
+  "bec36cf8-5f92-4953-932a-36aeb171785e": {
+    "bboxes": [
+      [
+        0.52256487,
+        0.44008156,
+        0.09533124,
+        0.09672413
+      ]
+    ],
+    "labels": [
+      "three"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "d928dc9cefabbf709adef61671467945c117101d3ed22d4f2bc69aa6cbaa688d"
+  },
+  "e08734a8-23b0-49ff-b2ce-d79750482099": {
+    "bboxes": [
+      [
+        0.5593402,
+        0.34429294,
+        0.10640424,
+        0.06920767
+      ]
+    ],
+    "labels": [
+      "fist"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "d928dc9cefabbf709adef61671467945c117101d3ed22d4f2bc69aa6cbaa688d"
+  }
+}

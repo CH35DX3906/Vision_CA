@@ -1,0 +1,18 @@
+{
+  "2434703c-d6a7-4858-a777-5f4e65fefe1b": {
+    "bboxes": [
+      [
+        0.24008149,
+        0.25736141,
+        0.17016496,
+        0.22473068
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "right",
+    "leading_conf": 1.0,
+    "user_id": "e0a626b1121b5f8424b483d2cfc8d4e843b79dc6be2bdbae529c50d3a6e5722b"
+  }
+}

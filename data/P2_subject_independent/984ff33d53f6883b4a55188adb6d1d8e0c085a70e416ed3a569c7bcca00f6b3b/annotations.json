@@ -1,0 +1,98 @@
+{
+  "2c93edef-eaf3-49bd-9c38-26f793a1f913": {
+    "bboxes": [
+      [
+        0.56278295,
+        0.32294331,
+        0.29254826,
+        0.25197284
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  },
+  "3a036438-12d0-4356-96b5-0125c383749d": {
+    "bboxes": [
+      [
+        0.51746234,
+        0.40362468,
+        0.13516468,
+        0.22709605
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  },
+  "444c1de3-b5f5-4aef-b01f-b67c5ef0f218": {
+    "bboxes": [
+      [
+        0.54117891,
+        0.40407246,
+        0.13506836,
+        0.24125402
+      ]
+    ],
+    "labels": [
+      "two_up_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  },
+  "5c0f8bc7-0ca2-4a72-9df9-b842b8dd46ea": {
+    "bboxes": [
+      [
+        0.52724112,
+        0.37439966,
+        0.14292281,
+        0.18949238
+      ]
+    ],
+    "labels": [
+      "peace_inverted"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  },
+  "ea079dd2-d66e-4988-a496-857b62c99878": {
+    "bboxes": [
+      [
+        0.55180367,
+        0.31961801,
+        0.2103021,
+        0.19826343
+      ]
+    ],
+    "labels": [
+      "three2"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  },
+  "f8492d1f-a6cb-428a-9db7-89c0df3f36e1": {
+    "bboxes": [
+      [
+        0.4874748,
+        0.43440128,
+        0.15627678,
+        0.1722642
+      ]
+    ],
+    "labels": [
+      "dislike"
+    ],
+    "leading_hand": "left",
+    "leading_conf": 1.0,
+    "user_id": "984ff33d53f6883b4a55188adb6d1d8e0c085a70e416ed3a569c7bcca00f6b3b"
+  }
+}
