@@ -1,0 +1,12 @@
+{
+  "original_commit": "4272bddc11dbdbdf786fd542a12a1413fb1d4c64",
+  "a_assignments_sha256": "2558196cc12618e374a52cfda1c6a1f3ea3be6d78509f087210140f5d04bf288",
+  "a_matches_original_commit": true,
+  "raw_images_retained": 31833,
+  "duplicate_images_verified_sha256": 63666,
+  "duplicate_annotation_files_verified": 8027,
+  "removed_files": {
+    "P1_random_image": 31891,
+    "P2_subject_independent": 39808
+  }
+}

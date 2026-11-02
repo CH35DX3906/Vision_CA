@@ -18,7 +18,8 @@ IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp"}
 def write_json(path, data):
     # Keep deterministic metadata readable in code review.
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8", newline="\n")
 
 
 def split_counts(total, ratios):
