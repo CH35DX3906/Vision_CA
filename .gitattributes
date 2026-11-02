@@ -1,0 +1,2 @@
+# Keep generated protocol manifests reproducible across Windows and Linux.
+data/evaluation_protocols/** text eol=lf

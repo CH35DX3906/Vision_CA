@@ -32,3 +32,6 @@ dist/
 .DS_Store
 Thumbs.db
 *.log
+
+# Local verification scripts, reports, and temporary test files.
+/local_checks/
