@@ -9,8 +9,8 @@ import random
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from dataset_protocols import (FIELDS, PROTOCOL_DIRECTORIES, SPLITS,
-                               assignment_digest, read_manifest)
+from dataset_loader import (FIELDS, PROTOCOL_DIRECTORIES, SPLITS,
+                            assignment_digest, read_manifest)
 
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp"}
 

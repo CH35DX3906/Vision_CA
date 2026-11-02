@@ -21,7 +21,7 @@ Protocol A retains every image's subset from commit
 users may overlap. Migration imports the old manifests instead of rerunning the
 shuffle. The membership SHA-256 is
 `2558196cc12618e374a52cfda1c6a1f3ea3be6d78509f087210140f5d04bf288`.
-The repository test pins this value to detect future changes to A.
+The saved summary records this value to check A when its manifests are reused.
 
 Protocol B shuffles sorted unique `user_id` values with seed 42 and allocates users
 80/10/10 using largest-remainder rounding. Every image of a user stays in one
@@ -44,7 +44,7 @@ evaluation workflow. A user's multiple images are not independent observations.
 ## Read data
 
 ```python
-from dataset_protocols import load_split
+from dataset_loader import load_split
 
 # Change only the protocol when comparing the same recognition method.
 samples = load_split("B_subject_independent", "train")
@@ -67,13 +67,12 @@ contains only `no_gesture`. The original annotation is preserved and this mismat
 is recorded in both summaries. Summaries report folder counts separately from
 annotated hand-label counts, including `no_gesture`.
 
-## Regenerate and verify
+## Regenerate manifests
 
 Run with the project's Python interpreter from the repository root:
 
 ```text
 python -B prepare_datasets.py
-python -B -m unittest discover -s tests -v
 ```
 
 The default command regenerates both protocols. Existing A CSVs are used as the
